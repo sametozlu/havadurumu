@@ -1,4 +1,9 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import 'animate.css';
+import './assets/tailwind.css';
 
-createApp(App).mount('#app')
+import '@lottiefiles/vue-lottie-player';
+
+import { createApp } from 'vue';
+import App from './App.vue';
+
+createApp(App).mount('#app');
