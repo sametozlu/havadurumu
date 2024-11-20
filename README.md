@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hava-durumu-projesi
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# havadurumu
+>>>>>>> 10bf6a55c88afdbf46f79594b42380e1a33166e3
